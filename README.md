@@ -6,5 +6,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Science projects
 - 💬 Ask me about Finance and Data Science
 - 📫 How to reach me: https://www.linkedin.com/in/gclucos/
-- ⚡ Fun fact: I love cycling and dancing
 
